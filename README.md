@@ -8,6 +8,7 @@
     'rockyou.txt'
   
   [line:8] cryptPass[0:19] you may need to change the length depending on salt size $6$...................$
+  
   [line:11] 'rockyou.txt' change to the name of your password list.
 
 # Requirements
