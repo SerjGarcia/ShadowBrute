@@ -5,7 +5,6 @@
   You will need to fill a file named shadows.txt of shadow hashes.
   
   Passwords list needs to be in the same directory.
-    'rockyou.txt'
   
   [line:8] cryptPass[0:19] you may need to change the length depending on salt size $6$...................$
   
