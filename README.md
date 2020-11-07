@@ -1,5 +1,5 @@
 # ShadowBrute
-  A password cracker for linux shadow hashes.
+  A simple password cracker for linux shadow hashes.
 
 # Important Notes
   You will need to fill a file named shadows.txt of shadow hashes.
