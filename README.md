@@ -11,8 +11,9 @@
   [line:11] 'rockyou.txt' change to the name of your password list.
 
 # Requirements
-  Python
-    Crypt
+  Python3
+  
+  Crypt
 
 # Run
   python3 ShadowBrute.py
